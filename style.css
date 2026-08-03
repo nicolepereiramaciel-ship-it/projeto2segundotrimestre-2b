@@ -33,6 +33,7 @@
   }
   .cabecalho-link{
     color: darkcyan;
+    text-decoration: none;
   }
   h1{
     color: darkcyan;
