@@ -37,3 +37,8 @@
   h1{
     color: darkcyan;
   }
+  .footer{
+    background-color: aquamarine;
+    padding: 15px 15px;
+    color: black;
+  }
