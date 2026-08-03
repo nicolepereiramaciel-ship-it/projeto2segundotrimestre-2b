@@ -11,6 +11,7 @@
   background-color: aquamarine;
 }
 
+
   .cartao{
     width: 260px;
     height: 200px;
@@ -28,4 +29,10 @@
   main{
     flex: 1;
   
+  }
+  .cabecalho-link{
+    color: darkcyan;
+  }
+  h1{
+    color: darkcyan;
   }
