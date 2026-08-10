@@ -37,9 +37,15 @@
   }
   h1{
     color: darkcyan;
+    font-size: 18px;
   }
   .footer{
     background-color: aquamarine;
     padding: 15px 15px;
     color: black;
+  }
+  .cartao interni{
+    position:absolute;
+    border-radius: 12px;/*cantos arredondados*/
+    box-shadow: 6 6px rgba(0, 0, 0, 0.15);/*colocar uma sombra ao redor do cartao*/
   }
