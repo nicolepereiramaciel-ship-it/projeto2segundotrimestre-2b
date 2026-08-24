@@ -28,7 +28,10 @@
     background-color: darkslategrey;
   }
   main{
-    flex: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+       /*FLEX:  1;*/
   
   }
   .cabecalho-link{
